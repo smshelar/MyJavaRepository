@@ -2,4 +2,6 @@ master file is created
 
 change 1
 
-change 2
+change 2 -- made on remote
+
+change 3 on remote
