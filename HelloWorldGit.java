@@ -1,7 +1,7 @@
 class HelloWorld{
 
 void displayDate(){
-sysout("display today's date");
+sysout("Display today's date:-");
 
 }
 
