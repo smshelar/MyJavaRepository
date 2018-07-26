@@ -1,5 +1,10 @@
 class HelloWorld{
 
+void mymethod(){
+sysout("displays todays date");
+
+}
+
 	public static void main(String[] args){
 
 
